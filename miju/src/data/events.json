@@ -1,21 +1,38 @@
 [
-    {
-      "id": "evt1",
-      "name": "Art Gallery: Cevin Sephora",
-      "date": "2025-12-21",
-      "time": "09:00 PM",
-      "location": "City Art Hall",
-      "participants": 1456,
-      "image": "https://via.placeholder.com/600x400?text=Art+Event"
-    },
-    {
-      "id": "evt2",
-      "name": "Interstellar Screening",
-      "date": "2023-12-23",
-      "time": "02:30 PM",
-      "location": "21 Movie Cineplex, Amsterdam",
-      "participants": 276,
-      "image": "https://via.placeholder.com/600x400?text=Movie+Event"
-    }
-  ]
-  
+  {
+    "id": "1",
+    "name": "Ecstacy India Tour",
+    "type": "Concert",
+    "votes": "1,456",
+    "date": "22 March 2025",
+    "description": "Experience the pulsating beats of the Ecstacy India Tour, a celebration of cutting-edge EDM and vibrant live performances. Surrounded by a sea of neon lights, you'll lose yourself in a high-energy atmosphere that unites fans from all walks of life.Join some of the country's top DJs and artists as they set the stage ablaze with hypnotic rhythms and immersive visuals. This one-of-a-kind concert promises an unforgettable night of dancing, connection, and pure adrenaline.",
+    "image": "Event1.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Paresh Pahuja & Friends",
+    "type": "Concert",
+    "votes": "2,305",
+    "date": "06 March 2025",
+    "description": "Paresh Pahuja & Friends is an intimate musical journey that blends soulful melodies and lively rhythms. With Paresh at the helm, each performance is a heartfelt tribute to the power of music to bring people together.Expect an evening of sing-alongs, spontaneous jam sessions, and honest storytelling. Whether you're a longtime fan or a curious newcomer, this concert invites you to celebrate the universal language of music.",
+    "image": "Event2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Phantom of the Opera",
+    "type": "Musical Theatre",
+    "votes": "8,642",
+    "date": "03 March 2025",
+    "description": "Phantom of the Opera weaves a timeless tale of love, obsession, and haunting melodies. Step into a world of grand chandeliers and hidden passageways, where the mysterious Phantom lurks behind every note.Featuring a talented cast and breathtaking stage design, this production immerses you in a dramatic spectacle that transcends time. Be prepared to be mesmerized by unforgettable arias and a story that resonates with the deepest corners of the heart.",
+    "image": "Event3.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Lollapalooza 2025",
+    "type": "Music Festival",
+    "votes": "10,582",
+    "date": "08 & 09 March 2025",
+    "description": "Lollapalooza 2025 is the ultimate destination for music lovers seeking a dynamic festival experience. From chart-topping headliners to up-and-coming indie gems, there's something for everyone across the sprawling stages.Beyond the music, explore vibrant art installations, interactive experiences, and a mouthwatering variety of food options. Whether you come for a single day or camp out for the entire weekend, Lollapalooza offers a kaleidoscope of culture that captures the festival spirit.",
+    "image": "Event4.jpg"
+  }
+]

@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import EventDetails from "./pages/EventDetails";
-import SwipePage from "./pages/SwipePage";
+import ProfilePage from "./pages/ProfilePage";
 import Chat from "./pages/Chat";
 import Profile from "./pages/Profile";
 import Navbar from "./components/Navbar";
@@ -17,7 +17,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/event/:eventId" element={<EventDetails />} />
-            <Route path="/swipe/:eventId" element={<SwipePage />} />
+            <Route path="/swipe/:eventId" element={<ProfilePage />} />
             <Route path="/chat" element={<Chat />} />
             <Route path="/profile" element={<Profile />} />
           </Routes>

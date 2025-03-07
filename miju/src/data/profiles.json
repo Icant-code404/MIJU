@@ -1,44 +1,112 @@
 [
-    {
-      "id": "user1",
-      "name": "Alice",
-      "age": 28,
-      "bio": "Loves music, art, and spontaneous adventures.",
-      "profilePic": "https://via.placeholder.com/100?text=Alice",
-      "photos": [
-        "https://via.placeholder.com/200?text=Alice+Photo1",
-        "https://via.placeholder.com/200?text=Alice+Photo2"
-      ],
-      "prompts": [
-        {
-          "id": "p1",
-          "question": "Favorite concert memory?",
-          "answer": "Rocking out at a live show!"
-        },
-        {
-          "id": "p2",
-          "question": "Something I'd never do again?",
-          "answer": "Binge 10 horror movies in a row!"
-        }
-      ]
-    },
-    {
-      "id": "user2",
-      "name": "Bob",
-      "age": 32,
-      "bio": "Passionate about art and culture.",
-      "profilePic": "https://via.placeholder.com/100?text=Bob",
-      "photos": [
-        "https://via.placeholder.com/200?text=Bob+Photo1",
-        "https://via.placeholder.com/200?text=Bob+Photo2"
-      ],
-      "prompts": [
-        {
-          "id": "p3",
-          "question": "Best art experience?",
-          "answer": "Visiting modern art galleries."
-        }
-      ]
-    }
-  ]
-  
+  {
+    "id": "1",
+    "name": "Samuel D’souza",
+    "age": 20,
+    "bio": "Fluent in sarcasm, bad at replying on time. I love chai, good music, and overanalyzing movie endings. Currently on a mission to find the best biryani in town—wanna be my co-critic?",
+    "interests": "Street food,Road trips,Thrillers,Memes,Travel",
+    "eventsAttended": 10,
+    "profilePic": "https://picsum.photos/200/300?random=111",
+    "photos": [
+      "https://picsum.photos/200/300?random=112",
+      "https://picsum.photos/200/300?random=113"
+    ],
+    "prompts": [
+      {
+        "id": "p21",
+        "question": "My go-to comfort food is…",
+        "answer": "Biryani, because nothing else comes close."
+      },
+      {
+        "id": "p22",
+        "question": " A perfect weekend looks like…",
+        "answer": "A long drive, good food, and a thriller movie to overanalyze later."
+      },
+      {
+        "id": "p22",
+        "question": " A fun fact about me…",
+        "answer": "I once planned a weekend trip and actually followed through."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Noah Patel",
+    "age": 32,
+    "bio": "Adventure junkie, travel blogger, and dog dad. Always looking for the next mountain to climb or new cuisine to taste.",
+    "interests": "Hiking, Street Food, Photography",
+    "eventsAttended": 22,
+    "profilePic": "https://picsum.photos/200/300?random=121",
+    "photos": [
+      "https://picsum.photos/200/300?random=122",
+      "https://picsum.photos/200/300?random=123"
+    ],
+    "prompts": [
+      {
+        "id": "p23",
+        "question": "Craziest adventure?",
+        "answer": "Hitchhiking across Southeast Asia for two months."
+      },
+      {
+        "id": "p24",
+        "question": "What’s on your bucket list?",
+        "answer": "Climbing Mount Kilimanjaro and learning to skydive."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Olivia Brown",
+    "age": 26,
+    "bio": "Part-time barista, full-time creative. I love painting city skylines, exploring hidden cafes, and dreaming up stories I'll one day turn into novels.",
+    "interests": "Art, Writing, Coffee",
+    "eventsAttended": 7,
+    "profilePic": "https://picsum.photos/200/300?random=131",
+    "photos": [
+      "https://picsum.photos/200/300?random=132",
+      "https://picsum.photos/200/300?random=133"
+    ],
+    "prompts": [
+      {
+        "id": "p25",
+        "question": "Favorite art medium?",
+        "answer": "Watercolor—it's so unpredictable yet beautiful."
+      },
+      {
+        "id": "p26",
+        "question": "What’s your comfort read?",
+        "answer": "Any classic mystery novel—Agatha Christie is my go-to."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Purva Mehta",
+    "age": 20,
+    "bio": "Somewhere between ‘let’s go on an adventure’ and ‘let’s stay in and order food.’ Pro at making bad puns, average at cooking Maggi. Swipe right if you can beat me at useless trivia!",
+    "interests": "Trivia, Chai, MAggi, Naps",
+    "eventsAttended": 11,
+    "profilePic": "https://picsum.photos/200/300?random=511",
+    "photos": [
+      "https://picsum.photos/200/300?random=862",
+      "https://picsum.photos/200/300?random=115"
+    ],
+    "prompts": [
+      {
+        "id": "p41",
+        "question": "If I could time travel, I’d go to…",
+        "answer": "The past, just to leave myself notes saying, “Don’t do that"
+      },
+      {
+        "id": "p43",
+        "question": " My toxic trait is…",
+        "answer": "Saying “I’ll sleep early” and then watching random history documentaries."
+      },
+      {
+        "id": "p42",
+        "question": " The best way to win me over is…",
+        "answer": "Beat me at a quiz, or at least pretend to try."
+      }
+    ]
+  }
+]
