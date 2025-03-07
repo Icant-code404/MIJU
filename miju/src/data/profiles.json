@@ -1,0 +1,44 @@
+[
+    {
+      "id": "user1",
+      "name": "Alice",
+      "age": 28,
+      "bio": "Loves music, art, and spontaneous adventures.",
+      "profilePic": "https://via.placeholder.com/100?text=Alice",
+      "photos": [
+        "https://via.placeholder.com/200?text=Alice+Photo1",
+        "https://via.placeholder.com/200?text=Alice+Photo2"
+      ],
+      "prompts": [
+        {
+          "id": "p1",
+          "question": "Favorite concert memory?",
+          "answer": "Rocking out at a live show!"
+        },
+        {
+          "id": "p2",
+          "question": "Something I'd never do again?",
+          "answer": "Binge 10 horror movies in a row!"
+        }
+      ]
+    },
+    {
+      "id": "user2",
+      "name": "Bob",
+      "age": 32,
+      "bio": "Passionate about art and culture.",
+      "profilePic": "https://via.placeholder.com/100?text=Bob",
+      "photos": [
+        "https://via.placeholder.com/200?text=Bob+Photo1",
+        "https://via.placeholder.com/200?text=Bob+Photo2"
+      ],
+      "prompts": [
+        {
+          "id": "p3",
+          "question": "Best art experience?",
+          "answer": "Visiting modern art galleries."
+        }
+      ]
+    }
+  ]
+  

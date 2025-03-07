@@ -1,0 +1,21 @@
+[
+    {
+      "id": "evt1",
+      "name": "Art Gallery: Cevin Sephora",
+      "date": "2025-12-21",
+      "time": "09:00 PM",
+      "location": "City Art Hall",
+      "participants": 1456,
+      "image": "https://via.placeholder.com/600x400?text=Art+Event"
+    },
+    {
+      "id": "evt2",
+      "name": "Interstellar Screening",
+      "date": "2023-12-23",
+      "time": "02:30 PM",
+      "location": "21 Movie Cineplex, Amsterdam",
+      "participants": 276,
+      "image": "https://via.placeholder.com/600x400?text=Movie+Event"
+    }
+  ]
+  
